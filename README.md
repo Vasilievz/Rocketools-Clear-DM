@@ -13,6 +13,11 @@
 
 </div>
 
+<!-- Badges -->
+![Versão do Projeto](https://img.shields.io/badge/version-2.0-blue.svg)
+![Status de Construção](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
+
 ## Funcionalidades
 
 - Limpeza automatizada de mensagens em uma DM do Discord.
