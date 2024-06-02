@@ -2,7 +2,8 @@
 
 <h1 align="center">Rocketools Clear DM</h1>
 
-<img src="https://github.com/myersdc/Rocketools-Clear-DM/blob/main/scr/img/rocketoolsz.png" alt="Rocketools DM Clear"/>
+<img src="https://github.com/myersdc/Rocketools-Clear-DM/blob/master/scr/img/rocketoolsz.png" alt="Rocketools DM Clear"/>
+
 
 <br><br>
 
