@@ -37,12 +37,11 @@
     git clone https://github.com/myersdc/Rocketools-Clear-DM.git
     cd Rocketools-Clear-DM
     ```
-2. Instale as dependências necessárias:
+2. Instale as dependências necessárias, OBS: baixe e coloque no reposiório do script.
     ```sh
-    npm install
-    npm install discord.js
+    https://encurtador.com.br/FUjOt
     ```
-
+    
 ## Configuração
 
 1. Abra o arquivo `config.json` em um editor de texto.
