@@ -70,7 +70,7 @@ Contribuições são bem-vindas! Se você tiver sugestões, melhorias ou encontr
 ## FAQ
 
 **Como obtenho o token do meu bot?**
-- Como obter o token da minha conta: [Comunidade de suporte Discord](https://discord.gg/ghxstore).
+- Como obter o token da minha conta:
 
 **Posso usar este script em servidores?**
 - Este script é projetado para DMs e pode não funcionar corretamente em canais de servidores.
