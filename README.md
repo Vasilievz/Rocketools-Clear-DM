@@ -2,6 +2,8 @@
 
 <h1 align="center">Rocketools Clear DM</h1>
 
+Com problemas, arrume se quiser.
+
 <img src="https://github.com/myersdc/Rocketools-Clear-DM/blob/master/scr/img/rocketoolsz.png" alt="Rocketools DM Clear"/>
 
 
